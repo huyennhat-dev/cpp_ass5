@@ -1,3 +1,6 @@
+#ifndef COIN_H
+#define COIN_H
+
 #include <iostream>
 using namespace std;
 
@@ -10,4 +13,4 @@ public:
     string getSideUp();
 };
 
-
+#endif

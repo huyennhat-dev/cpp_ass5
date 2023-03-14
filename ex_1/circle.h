@@ -1,5 +1,8 @@
-#include <iostream>
+#ifndef CIRCLE_H
+#define CIRCLE_H
 
+
+#include <iostream>
 using namespace std;
 
 class Circle {
@@ -17,3 +20,5 @@ public:
 
     void display();
 };
+
+#endif
